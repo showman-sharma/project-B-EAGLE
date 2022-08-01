@@ -1,0 +1,2 @@
+# project-B-EAGLE
+We propose a leak source search system mounted on small sized drones or rovers that will accurately reach the source of the gas leak or fire. Subsequently, the drone/rover might act as a beacon locating the source exactly or could manage the hazard if relevantly equipped. Here, we try: ● To create a Gas Leak Source Search System. ● To equip a drone with this system and make it reach the source. ● This drone would act like a beacon, informing the user about the exact location of the source.
